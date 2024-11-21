@@ -1,0 +1,27 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  font-family: "Inria Serif", serif;
+  margin: 0;
+  padding: 0;
+  font-size: 1.8rem;
+  line-height: 1.4;
+  box-sizing: border-box;
+}
+
+.head,
+.rodape {
+  background-color: #e36f03;
+  height: 18rem;
+}
+
+.titulo-p1 {
+  font-size: 5rem;
+}
+
+.negrito {
+  font-weight: 900;
+  font-size: 5rem;
+}
