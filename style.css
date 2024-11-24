@@ -9,12 +9,44 @@ html {
   font-size: 1.8rem;
   line-height: 1.4;
   box-sizing: border-box;
+  color: white;
 }
 
 .head,
 .rodape {
   background-color: #e36f03;
   height: 18rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 145rem;
+}
+
+.logo-cabecalho {
+  margin-left: 10rem;
+}
+
+.menu-sanduiche {
+  margin-right: 10rem;
+}
+
+.gradiente {
+  display: block;
+  position: absolute;
+}
+
+.gradiente div {
+  width: 253.7rem;
+  height: 93rem;
+  background-image: linear-gradient(#e36f0356, #00000056);
+}
+
+.bg img {
+  width: 253.7rem;
+}
+
+.principal {
+  display: inline-block;
 }
 
 .titulo-p1 {
@@ -24,4 +56,15 @@ html {
 .negrito {
   font-weight: 900;
   font-size: 5rem;
+}
+
+.escrita-principal {
+  display: inline-block;
+  position: absolute;
+  margin-left: 10rem;
+  margin-top: 5rem;
+  background: #2f2f2fb9;
+  border-radius: 15%;
+  width: 80rem;
+  height: 50rem;
 }
