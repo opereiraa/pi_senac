@@ -21,7 +21,6 @@ nav,
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 145rem;
   padding: 0rem 10rem;
 }
 
@@ -104,7 +103,7 @@ nav,
   padding: 3rem 5rem;
 }
 
-.lista-carrossel ul {
+.lista-carrossel li {
   display: flex;
   position: relative;
   flex-direction: column;
@@ -113,6 +112,7 @@ nav,
   height: 95%;
   background-color: white;
   font-size: 2rem;
+  box-shadow: 0.8rem 0.8rem 0.8rem 0.5rem rgba(0, 0, 0, 0.2);
 }
 
 .lista-carrossel:nth-child(1) ul {
@@ -124,6 +124,7 @@ nav,
   height: 95%;
   background-color: white;
   font-size: 2rem;
+  box-shadow: 0.8rem 0.8rem 1.2rem 0.5rem rgba(34, 17, 2, 0.15);
 }
 
 .barra-cinza {
@@ -149,4 +150,61 @@ nav,
 .formas-ingresso {
   background-color: #d9d9d9;
   padding: 5rem 30rem;
+}
+
+.rodape {
+  height: 25rem;
+}
+
+.rodape h4 {
+  font-size: 2.8rem;
+  font-weight: 900;
+  padding-bottom: 1rem;
+}
+
+.rodape h5 {
+  font-size: 1.8rem;
+  font-weight: 200;
+  padding: 0.5rem 0rem;
+}
+
+.rodape div:nth-child(1) {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.rodape div:nth-child(2) {
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+}
+
+.rodape div:nth-child(3) {
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+}
+
+.rodape div:nth-child(4) {
+  display: flex;
+  flex-flow: column;
+  width: 60rem;
+  justify-content: center;
+}
+
+.logo-rodape {
+  width: 60%;
+}
+
+.rodape div:nth-child(4) div {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 1.5rem 0rem 5rem 0rem;
+}
+
+.rodape div:nth-child(4) div img {
+  width: 60%;
 }
