@@ -28,6 +28,8 @@ A tela de cadastro da Pessoa Física incluirá os seguintes campos:
   Botões:  
     Cadastrar: Envia os dados para o banco de dados.
     Cancelar: Limpa os campos e retorna à página inicial.
+
+  ![Página Inicial](interface/form-pf.png)
     
 4. Estrutura de Cadastro - Pessoa Jurídica
 
@@ -83,5 +85,27 @@ Integração com Sistemas Acadêmicos: Para que alunos e professores possam faze
 Área Restrita: Uma área privada para Pessoa Física e Jurídica acessarem informações sobre cursos, eventos ou oportunidades relacionadas.
 Gestão de Cadastro: Uma interface administrativa onde os responsáveis pela universidade possam gerenciar os cadastros de pessoas físicas e jurídicas.
 Esse projeto busca ser simples, intuitivo e funcional, permitindo à Universidade Francisco Cunha cadastrar tanto indivíduos quanto instituições de forma eficiente.
+
+# Interface
+
+[Acesse a Interface no FIGMA](https://www.figma.com/design/Y19ydHdo4qDxoErMiXxPxT/Projeto-Integrador?node-id=9-138&t=Z7MtAqhue5j7EtQ8-1)
+
+![Página Inicial](interface/pg-inicial.png)
+
+![Página Inicial](interface/menu-suspenso.png)
+
+![Página Inicial](interface/cursos.png)
+
+![Página Inicial](interface/pg-curso.png)
+
+
+
+![Página Inicial](interface/form-pj.png)
+
+![Página Inicial](interface/pg-login.png)
+
+
+
+
 
 
