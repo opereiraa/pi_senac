@@ -79,14 +79,6 @@ Página Inicial
 
 ![Página Inicial](interface/pg-inicial.png)
 
-Menu Suspenso da Página Inicial
-
-![Página Inicial](interface/menu-suspenso.png)
-
-Menu de Cursos
-
-![Página Inicial](interface/cursos.png)
-
 Página Explicativa do Curso
 
 ![Página Inicial](interface/pg-curso.png)
